@@ -1,0 +1,12 @@
+input {
+  width: 100%;
+}
+
+.sk-row {
+  margin: 10px 5px;
+}
+
+.sk-btn {
+  min-width: 80px;
+}
+
